@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 639f984c0d27abc4281028d14f6f1ba0
+timeCreated: 1506518160
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Head_1
+    100002: Head_2
+    100004: Head_3
+    100006: HeadStartAll_Bone
+    100008: //RootNode
+    100010: MediumTentacle01_Bone
+    100012: MediumTentacle02_Bone
+    100014: MediumTentacle03_Bone
+    100016: MediumTentacle04_Bone
+    100018: MediumTentacle05_Bone
+    100020: MediumTentacle06_Bone
+    100022: MediumTentacle07_Bone
+    100024: MediumTentacle08_Bone
+    100026: MediumTentacle09_Bone
+    100028: MediumTentacle_End_Bone
+    100030: NormalHead01_Bone
+    100032: NormalHead02_Bone
+    100034: NormalHead03_Bone
+    100036: NormalHead04_Bone
+    100038: NormalHead05_Bone
+    100040: NormalHead06_Bone
+    100042: NormalHead07_Bone
+    100044: NormalHead08_Bone
+    100046: NormalHead_End_Bone
+    100048: SharpHead01_Bone
+    100050: SharpHead02_Bone
+    100052: SharpHead03_Bone
+    100054: SharpHead04_Bone
+    100056: SharpHead05_Bone
+    100058: SharpHead06_Bone
+    100060: SharpHead07_Bone
+    100062: SharpHead08_Bone
+    100064: SharpHead09_Bone
+    100066: SharpHead10_Bone
+    100068: SharpHead_End_Bone
+    100070: ShieldTentacle01_Bone
+    100072: ShieldTentacle02_Bone
+    100074: ShieldTentacle03_Bone
+    100076: ShieldTentacle04_Bone
+    100078: ShieldTentacle_End_Bone
+    100080: ShroomHead01_Bone
+    100082: ShroomHead02_Bone
+    100084: ShroomHead03_Bone
+    100086: ShroomHead04_Bone
+    100088: ShroomHead_End_Bone
+    100090: SmallTentacle01_Bone
+    100092: SmallTentacle02_Bone
+    100094: SmallTentacle03_Bone
+    100096: SmallTentacle04_Bone
+    100098: SmallTentacle05_Bone
+    100100: SmallTentacle06_Bone
+    100102: SmallTentacle07_Bone
+    100104: SmallTentacle_End_Bone
+    100106: SwordTentacle01_Bone
+    100108: SwordTentacle02_Bone
+    100110: SwordTentacle03_Bone
+    100112: SwordTentacle04_Bone
+    100114: SwordTentacle05_Bone
+    100116: SwordTentacle06_Bone
+    100118: SwordTentacle_End_Bone
+    100120: Tentacle_Medium
+    100122: Tentacle_Shield
+    100124: Tentacle_Small
+    100126: Tentacle_Sword
+    400000: Head_1
+    400002: Head_2
+    400004: Head_3
+    400006: HeadStartAll_Bone
+    400008: //RootNode
+    400010: MediumTentacle01_Bone
+    400012: MediumTentacle02_Bone
+    400014: MediumTentacle03_Bone
+    400016: MediumTentacle04_Bone
+    400018: MediumTentacle05_Bone
+    400020: MediumTentacle06_Bone
+    400022: MediumTentacle07_Bone
+    400024: MediumTentacle08_Bone
+    400026: MediumTentacle09_Bone
+    400028: MediumTentacle_End_Bone
+    400030: NormalHead01_Bone
+    400032: NormalHead02_Bone
+    400034: NormalHead03_Bone
+    400036: NormalHead04_Bone
+    400038: NormalHead05_Bone
+    400040: NormalHead06_Bone
+    400042: NormalHead07_Bone
+    400044: NormalHead08_Bone
+    400046: NormalHead_End_Bone
+    400048: SharpHead01_Bone
+    400050: SharpHead02_Bone
+    400052: SharpHead03_Bone
+    400054: SharpHead04_Bone
+    400056: SharpHead05_Bone
+    400058: SharpHead06_Bone
+    400060: SharpHead07_Bone
+    400062: SharpHead08_Bone
+    400064: SharpHead09_Bone
+    400066: SharpHead10_Bone
+    400068: SharpHead_End_Bone
+    400070: ShieldTentacle01_Bone
+    400072: ShieldTentacle02_Bone
+    400074: ShieldTentacle03_Bone
+    400076: ShieldTentacle04_Bone
+    400078: ShieldTentacle_End_Bone
+    400080: ShroomHead01_Bone
+    400082: ShroomHead02_Bone
+    400084: ShroomHead03_Bone
+    400086: ShroomHead04_Bone
+    400088: ShroomHead_End_Bone
+    400090: SmallTentacle01_Bone
+    400092: SmallTentacle02_Bone
+    400094: SmallTentacle03_Bone
+    400096: SmallTentacle04_Bone
+    400098: SmallTentacle05_Bone
+    400100: SmallTentacle06_Bone
+    400102: SmallTentacle07_Bone
+    400104: SmallTentacle_End_Bone
+    400106: SwordTentacle01_Bone
+    400108: SwordTentacle02_Bone
+    400110: SwordTentacle03_Bone
+    400112: SwordTentacle04_Bone
+    400114: SwordTentacle05_Bone
+    400116: SwordTentacle06_Bone
+    400118: SwordTentacle_End_Bone
+    400120: Tentacle_Medium
+    400122: Tentacle_Shield
+    400124: Tentacle_Small
+    400126: Tentacle_Sword
+    4300000: Tentacle_Sword
+    4300002: Head_2
+    4300004: Head_3
+    4300006: Head_1
+    4300008: Tentacle_Shield
+    4300010: Tentacle_Small
+    4300012: Tentacle_Medium
+    7400000: Kraken_1_4@Hit
+    9500000: //RootNode
+    13700000: Head_1
+    13700002: Head_2
+    13700004: Head_3
+    13700006: Tentacle_Medium
+    13700008: Tentacle_Shield
+    13700010: Tentacle_Small
+    13700012: Tentacle_Sword
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

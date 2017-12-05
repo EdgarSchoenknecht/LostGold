@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 25322605dea56fa4ba64e6436ed4035b
+timeCreated: 1503304508
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CannonBall01
+    100002: CannonBall015
+    100004: CannonBall02
+    100006: CannonBall03
+    100008: CannonBall04
+    100010: CannonBall05
+    100012: CannonBall06
+    100014: CannonBall07
+    100016: CannonBall08
+    100018: CannonBall09
+    100020: //RootNode
+    100022: Chain_Short01
+    100024: Chain_Short02
+    100026: Chain_Short026
+    100028: Chain_Short03
+    100030: Chain_Short04
+    100032: Chain_Short05
+    100034: Chain_Short06
+    100036: Chain_Short07
+    100038: Chain_Short08
+    100040: Chain_Short09
+    100042: Chain_Short10
+    100044: Chain_Short11
+    100046: Chain_Short12
+    100048: Holzrahmen001
+    100050: NumberBoard001
+    100052: Velvet001
+    400000: CannonBall01
+    400002: CannonBall015
+    400004: CannonBall02
+    400006: CannonBall03
+    400008: CannonBall04
+    400010: CannonBall05
+    400012: CannonBall06
+    400014: CannonBall07
+    400016: CannonBall08
+    400018: CannonBall09
+    400020: //RootNode
+    400022: Chain_Short01
+    400024: Chain_Short02
+    400026: Chain_Short026
+    400028: Chain_Short03
+    400030: Chain_Short04
+    400032: Chain_Short05
+    400034: Chain_Short06
+    400036: Chain_Short07
+    400038: Chain_Short08
+    400040: Chain_Short09
+    400042: Chain_Short10
+    400044: Chain_Short11
+    400046: Chain_Short12
+    400048: Holzrahmen001
+    400050: NumberBoard001
+    400052: Velvet001
+    2300000: CannonBall01
+    2300002: CannonBall015
+    2300004: CannonBall02
+    2300006: CannonBall03
+    2300008: CannonBall04
+    2300010: CannonBall05
+    2300012: CannonBall06
+    2300014: CannonBall07
+    2300016: CannonBall08
+    2300018: CannonBall09
+    2300020: Chain_Short01
+    2300022: Chain_Short02
+    2300024: Chain_Short026
+    2300026: Chain_Short03
+    2300028: Chain_Short04
+    2300030: Chain_Short05
+    2300032: Chain_Short06
+    2300034: Chain_Short07
+    2300036: Chain_Short08
+    2300038: Chain_Short09
+    2300040: Chain_Short10
+    2300042: Chain_Short11
+    2300044: Chain_Short12
+    2300046: Holzrahmen001
+    2300048: NumberBoard001
+    2300050: Velvet001
+    3300000: CannonBall01
+    3300002: CannonBall015
+    3300004: CannonBall02
+    3300006: CannonBall03
+    3300008: CannonBall04
+    3300010: CannonBall05
+    3300012: CannonBall06
+    3300014: CannonBall07
+    3300016: CannonBall08
+    3300018: CannonBall09
+    3300020: Chain_Short01
+    3300022: Chain_Short02
+    3300024: Chain_Short026
+    3300026: Chain_Short03
+    3300028: Chain_Short04
+    3300030: Chain_Short05
+    3300032: Chain_Short06
+    3300034: Chain_Short07
+    3300036: Chain_Short08
+    3300038: Chain_Short09
+    3300040: Chain_Short10
+    3300042: Chain_Short11
+    3300044: Chain_Short12
+    3300046: Holzrahmen001
+    3300048: NumberBoard001
+    3300050: Velvet001
+    4300000: NumberBoard001
+    4300002: CannonBall09
+    4300004: CannonBall08
+    4300006: Holzrahmen001
+    4300008: Chain_Short01
+    4300010: Chain_Short02
+    4300012: Chain_Short03
+    4300014: Chain_Short04
+    4300016: Chain_Short05
+    4300018: CannonBall05
+    4300020: CannonBall06
+    4300022: Chain_Short06
+    4300024: Chain_Short07
+    4300026: CannonBall04
+    4300028: CannonBall07
+    4300030: Velvet001
+    4300032: Chain_Short08
+    4300034: CannonBall02
+    4300036: Chain_Short09
+    4300038: CannonBall01
+    4300040: Chain_Short10
+    4300042: Chain_Short11
+    4300044: CannonBall03
+    4300046: Chain_Short12
+    4300048: CannonBall015
+    4300050: Chain_Short026
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

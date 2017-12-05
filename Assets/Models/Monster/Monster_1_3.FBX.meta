@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: be5f171cfce728c42a6afcd41bda2463
+timeCreated: 1503134233
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Fan
+    100002: Fin
+    100004: Fins
+    100006: Head_Fine001
+    100008: Head_Horn
+    100010: Head_Horns001
+    100012: Head_Horns002
+    100014: Head_Tooth
+    100016: Monster001
+    100018: //RootNode
+    100020: SeaDrake_Head_bone
+    100022: SeaDrake_HeadEnd_bone
+    100024: SeaDrake_Jaw_bone
+    100026: SeaDrake_JawEnd_bone
+    100028: SeaDrake_l_Shoulder_bone
+    100030: SeaDrake_l_Wing1_bone
+    100032: SeaDrake_l_Wing2_bone
+    100034: SeaDrake_l_Wing3_bone
+    100036: SeaDrake_l_Wing4_bone
+    100038: SeaDrake_l_Wing5_bone
+    100040: SeaDrake_l_WingEnd_bone
+    100042: SeaDrake_l_WingStart_bone
+    100044: SeaDrake_Neck1_bone
+    100046: SeaDrake_Neck2_bone
+    100048: SeaDrake_Neck3_bone
+    100050: SeaDrake_Neck4_bone
+    100052: SeaDrake_NeckStart_bone
+    100054: SeaDrake_Pelvis_bone
+    100056: SeaDrake_r_Shoulder_bone
+    100058: SeaDrake_r_Wing1_bone
+    100060: SeaDrake_r_Wing2_bone
+    100062: SeaDrake_r_Wing3_bone
+    100064: SeaDrake_r_Wing4_bone
+    100066: SeaDrake_r_Wing5_bone
+    100068: SeaDrake_r_WingEnd_bone
+    100070: SeaDrake_r_WingStart_bone
+    100072: SeaDrake_Ribbcage2_bone
+    100074: SeaDrake_Ribbcage_bone
+    100076: SeaDrake_Tail1_bone
+    100078: SeaDrake_Tail2_bone
+    100080: SeaDrake_Tail3_bone
+    100082: SeaDrake_Tail4_bone
+    100084: SeaDrake_Tail5_bone
+    100086: SeaDrake_Tail6_bone
+    100088: SeaDrake_Tail7_bone
+    100090: SeaDrake_Tail8_bone
+    100092: SeaDrake_Tail9_bone
+    100094: SeaDrake_TailEnd_bone
+    100096: SeaDrake_TailStart_bone
+    100098: Tail001
+    100100: Tail002
+    400000: Fan
+    400002: Fin
+    400004: Fins
+    400006: Head_Fine001
+    400008: Head_Horn
+    400010: Head_Horns001
+    400012: Head_Horns002
+    400014: Head_Tooth
+    400016: Monster001
+    400018: //RootNode
+    400020: SeaDrake_Head_bone
+    400022: SeaDrake_HeadEnd_bone
+    400024: SeaDrake_Jaw_bone
+    400026: SeaDrake_JawEnd_bone
+    400028: SeaDrake_l_Shoulder_bone
+    400030: SeaDrake_l_Wing1_bone
+    400032: SeaDrake_l_Wing2_bone
+    400034: SeaDrake_l_Wing3_bone
+    400036: SeaDrake_l_Wing4_bone
+    400038: SeaDrake_l_Wing5_bone
+    400040: SeaDrake_l_WingEnd_bone
+    400042: SeaDrake_l_WingStart_bone
+    400044: SeaDrake_Neck1_bone
+    400046: SeaDrake_Neck2_bone
+    400048: SeaDrake_Neck3_bone
+    400050: SeaDrake_Neck4_bone
+    400052: SeaDrake_NeckStart_bone
+    400054: SeaDrake_Pelvis_bone
+    400056: SeaDrake_r_Shoulder_bone
+    400058: SeaDrake_r_Wing1_bone
+    400060: SeaDrake_r_Wing2_bone
+    400062: SeaDrake_r_Wing3_bone
+    400064: SeaDrake_r_Wing4_bone
+    400066: SeaDrake_r_Wing5_bone
+    400068: SeaDrake_r_WingEnd_bone
+    400070: SeaDrake_r_WingStart_bone
+    400072: SeaDrake_Ribbcage2_bone
+    400074: SeaDrake_Ribbcage_bone
+    400076: SeaDrake_Tail1_bone
+    400078: SeaDrake_Tail2_bone
+    400080: SeaDrake_Tail3_bone
+    400082: SeaDrake_Tail4_bone
+    400084: SeaDrake_Tail5_bone
+    400086: SeaDrake_Tail6_bone
+    400088: SeaDrake_Tail7_bone
+    400090: SeaDrake_Tail8_bone
+    400092: SeaDrake_Tail9_bone
+    400094: SeaDrake_TailEnd_bone
+    400096: SeaDrake_TailStart_bone
+    400098: Tail001
+    400100: Tail002
+    4300000: Head_Fine001
+    4300002: Head_Horns001
+    4300004: Head_Horn
+    4300006: Head_Horns002
+    4300008: Fan
+    4300010: Head_Tooth
+    4300012: Fins
+    4300014: Monster001
+    4300016: Fin
+    4300018: Tail001
+    4300020: Tail002
+    9500000: //RootNode
+    13700000: Fan
+    13700002: Fin
+    13700004: Fins
+    13700006: Head_Fine001
+    13700008: Head_Horn
+    13700010: Head_Horns001
+    13700012: Head_Horns002
+    13700014: Head_Tooth
+    13700016: Monster001
+    13700018: Tail001
+    13700020: Tail002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

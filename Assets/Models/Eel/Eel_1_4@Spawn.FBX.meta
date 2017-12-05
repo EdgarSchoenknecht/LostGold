@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 5083efe312027c64c8c727370a1f983c
+timeCreated: 1506517814
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Aal001
+    100002: Aal002
+    100004: Aal003
+    100006: Body01
+    100008: Body02
+    100010: Body03
+    100012: Body04
+    100014: Body05
+    100016: Body06
+    100018: Body07
+    100020: Body08
+    100022: Body09
+    100024: Body10
+    100026: Body11
+    100028: Body12
+    100030: Body13
+    100032: Body14
+    100034: Body15
+    100036: Body16
+    100038: Body17
+    100040: Body18
+    100042: Body19
+    100044: Body20
+    100046: Body21
+    100048: Body22
+    100050: Body23
+    100052: Body24
+    100054: Body_End
+    100056: //RootNode
+    100058: Head
+    100060: Jaw
+    100062: Jaw_End
+    400000: Aal001
+    400002: Aal002
+    400004: Aal003
+    400006: Body01
+    400008: Body02
+    400010: Body03
+    400012: Body04
+    400014: Body05
+    400016: Body06
+    400018: Body07
+    400020: Body08
+    400022: Body09
+    400024: Body10
+    400026: Body11
+    400028: Body12
+    400030: Body13
+    400032: Body14
+    400034: Body15
+    400036: Body16
+    400038: Body17
+    400040: Body18
+    400042: Body19
+    400044: Body20
+    400046: Body21
+    400048: Body22
+    400050: Body23
+    400052: Body24
+    400054: Body_End
+    400056: //RootNode
+    400058: Head
+    400060: Jaw
+    400062: Jaw_End
+    4300000: Aal001
+    4300002: Aal002
+    4300004: Aal003
+    7400000: Spawn
+    9500000: //RootNode
+    13700000: Aal001
+    13700002: Aal002
+    13700004: Aal003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Spawn
+      takeName: Aal_1_3@Spawn
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.99805826
+        functionName: AnimEventEelSpawned
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 9b636c7912faeed43b3c5e840033ab45,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
