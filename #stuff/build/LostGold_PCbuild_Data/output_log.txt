@@ -1,0 +1,91 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4059 MB
+    Driver:   21.21.13.7892
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\System.dll (this message is harmless)
+Platform assembly: Z:\#Captain Kiddie\build\LostGold_PCbuild_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.369 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.312146 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4774 -> priority: 1 
+  Thread -> id: 3638 -> priority: 1 
+  Thread -> id: 2030 -> priority: 1 
+  Thread -> id: 3c88 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Outlined/Diffuse' - Pass 'OUTLINE' has no vertex shader
+UnloadTime: 4.931579 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4278.
+Total: 2.119966 ms (FindLiveObjects: 0.153999 ms CreateObjectMapping: 0.120077 ms MarkObjects: 1.823976 ms  DeleteObjects: 0.021313 ms)
+
+move to attack node
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+move back to node1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attack ends
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+move to attack node
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+move back to node1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attack ends
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+move to attack node
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+move back to node1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attack ends
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+move to attack node
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+move back to node1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attack ends
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+move to attack node
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
