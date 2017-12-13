@@ -700,16 +700,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 9
       objectReference: {fileID: 0}
-    - target: {fileID: 224708796509566448, guid: e264fc1c33899fe43af73c7636f6e660,
-        type: 2}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224390344636497708, guid: e264fc1c33899fe43af73c7636f6e660,
-        type: 2}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 224950338894748484, guid: e264fc1c33899fe43af73c7636f6e660,
         type: 2}
       propertyPath: m_AnchorMax.x
@@ -731,6 +721,16 @@ Prefab:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 224294559543531154, guid: e264fc1c33899fe43af73c7636f6e660,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224708796509566448, guid: e264fc1c33899fe43af73c7636f6e660,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224390344636497708, guid: e264fc1c33899fe43af73c7636f6e660,
         type: 2}
       propertyPath: m_AnchorMax.y
       value: 1
